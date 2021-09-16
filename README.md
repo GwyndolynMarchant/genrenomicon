@@ -7,4 +7,4 @@ Genrenomicon generates a list of genres using [quick-markov](https://github.com/
 2. TV Tropes [video game genres](https://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameGenres)
 3. [itch.io](https://itch.io) game descriptions
 
-A full list of sources is available in [references](references.md).
+A full list of sources is available in [references](doc/references.md).
