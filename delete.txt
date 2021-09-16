@@ -1,0 +1,388 @@
+
+2d action
+2d action platformer
+2d action puzzle platformer
+2d action roguelike
+2d action RPG
+2d action-adventure
+2d action-adventure game
+2d isometric dungeon
+2d pixel action game
+2d pixel horror game
+2d pixel vertical shmup
+2d top-down dungeon
+3d action
+3d action platformer
+3d action RPG
+3d mascot racer
+3d metroidvania
+3d platform action game
+3d platform adventure
+3d roguelike
+3d roguelikelike
+3d roguelite
+90s arcade FPS
+90s arcade game
+action
+action arcade game
+action dungeon crawler
+action platformer
+action platformer adventure game
+action puzzle game
+action puzzle platformer
+action roguelike
+action roguelikelike
+action-adventure
+action-adventure puzzle platformer
+action-adventure racing game
+action-adventure survival horror game
+adventure
+adventure survival horror game
+adventure visual novel
+aircraft combat
+anti-thriller
+AR action
+AR action arcade game
+AR action game
+arcade action game
+arcade action RPG
+arcade action-adventure game
+arcade racing sim
+arcade shooter
+arcade space flight sim
+arcade-style racing sim
+arena
+arena action game
+arena action-adventure
+atmospheric first-person graphic adventure
+atmospheric FPS
+atmospheric puzzle game
+battle arena
+battle arena action game
+battle arena action RPG
+battle arena shooter
+beat-em-up platformer
+belt-scrolling
+belt-scrolling game
+bitesize pixel horror
+bitesize pixel horror game
+bitesize pixel story
+block pushing puzzle
+block puzzle
+block puzzle game
+board adventure game
+board RPG
+boat combat
+brawler shooter
+breakout clone
+browser-based RPG
+browser-based sci-fi
+browser-based strategy wargame
+browser-based tactics
+builder
+builder game
+building
+building game
+bullet hell game
+car combat
+character action horror game
+character action platformer
+character action RPG
+character action-adventure
+chess variant
+christian collection
+cinematic pixel story
+civilian flight sim
+classic arcade action horror
+classic arcade FPS
+classic arcade game
+classic arcade shooter
+co-op multiplayer RPG
+co-op puzzle action RPG
+co-op puzzle adventure
+co-op puzzle platformer
+co-op puzzle platformer adventure game
+colony management game
+colony management sim
+combat
+combat flight sim shooter
+comedy adventure game
+comedy narrative adventure game
+comical action platformer
+comical action RPG
+cosmic horror
+cosmic horror adventure
+cosmic horror game
+cozy horror
+crime game
+crime shooter
+crime shooter game
+crime sim
+dark 4X game
+dark comedy adventure
+dark comedy adventure game
+dark comedy clicking adventure game
+dark comedy game
+dark comedy narrative adventure game
+dark comedy narrative experiment
+dark comedy narrative game
+dark comedy visual novel
+dark exploration game
+dark exploration horror
+dark exploration horror game
+dark first-person action game
+dark first-person action RPG
+dark first-person graphic adventure game
+dark FPS
+deck builder
+deck builder game
+deck building
+deck building roguelikelike
+deck building roguelite
+deck building sim
+demolition racing
+digital pinball game
+digital poem
+doom clone
+dream exploration game
+environmental narrative adventure
+escape room adventure
+escape room adventure game
+experimental first-person adventure
+experimental first-person dungeon
+experimental first-person graphic adventure game
+experimental first-person puzzle game
+experimental first-person RPG
+experimental FPS
+exploration game
+exploration horror game
+exploration sci-fi
+exploration sci-fi game
+exploration sci-fi sim
+exploration survival game
+factory sim
+falling block breaker
+falling block pushing puzzle
+falling block pushing puzzle game
+fantasy
+fantasy adventure
+fantasy adventure game
+fantasy dungeon crawl
+fantasy dungeon crawler
+fantasy first-person graphic adventure
+fantasy FPS game
+fantasy horror game
+fantasy horror-comedy adventure
+fantasy third-person action game
+farm business sim
+farm life game
+fast-paced arena
+first-person 3d action game
+first-person 4X game
+first-person action platformer
+first-person action RPG
+first-person adventure
+first-person adventure game
+first-person adventure survival game
+first-person dungeon crawler
+first-person exploration game
+first-person exploration horror game
+first-person fantasy
+first-person fantasy action game
+first-person graphic adventure game
+first-person melee brawler
+first-person open sandbox RPG
+first-person open source game
+first-person open world
+first-person open world action RPG
+first-person open world crime game
+first-person open world game
+first-person party-based dungeon crawl
+first-person point-and-click game
+first-person real-time FPS game
+first-person stealth game
+FPS dungeon crawler
+FPS game
+futuristic racing
+grand strategy
+grand strategy hybrid
+graphic adventure visual novel
+hero management
+hidden object adventure
+hockey mayhem
+horizontal japanese RPG
+horizontal-scrolling
+horizontal-scrolling brawler
+horror
+horror adventure
+horror adventure game
+horror adventure puzzle game
+horror FPS
+horror metroidvania
+horror platformer
+horror thriller adventure game
+hybrid action
+hybrid action platform action game
+hybrid action platformer
+hybrid action roguelike
+hybrid action RPG
+hybrid bullet hell
+hybrid bullet hell game
+hypertext adventure
+hypertext adventure game
+hypertext-oriented game
+ice hockey mayhem
+immersive painting
+immersive role-playing sim
+immersive RPG
+immersive sim shooter game
+interactive fiction game
+interactive fiction horror fiction
+interactive fiction mystery game
+interactive horror
+interactive horror game
+interactive movie  tie-in
+interactive scene
+isometric dungeon
+isometric dungeon crawl
+isometric point-and-target combat
+isometric puzzle adventure
+isometric puzzle platformer
+japanese-style adventure game
+jump scare horror
+jump scare horror adventure
+jump scare horror adventure game
+kart racing
+life game
+lightgun
+lightgun shooter game
+local MUD
+local multiplayer action game
+local multiplayer ice hockey game
+local multiplayer puzzle
+logic puzzle
+logic puzzle adventure game
+magical action game
+magical action platformer
+magical action RPG
+management
+management game
+mascot platformer
+massive MUD
+metroidvania hybrid
+military flight sim shooter
+mindscrew puzzle adventure
+mindscrew puzzle game
+mini adventure game
+mini dungeon crawler
+minimalist incremental game
+MMO battle game
+MUD crawl
+multi-user text adventure game
+multi-user text-based game
+multiplayer beat-em-up
+multiplayer ice hockey game
+multiplayer online casual game
+multiplayer online game
+multiplayer online real-time tactics
+multiplayer online RTS game
+multiplayer party game
+multiplayer RPG
+multiplayer shooter
+narrative adventure
+narrative experiment
+old school first-person RPG
+old school FPS
+online battle arena
+online casual game
+online first-person RPG
+online RPG
+online social game
+open sandbox
+open sandbox game
+open stealth
+open world
+open world crime shooter
+open world crime sim
+pinball table
+pixel action RPG
+pixel horror game
+pixel story
+pixel vertical shmup
+planet exploration horror game
+planet exploration sci-fi game
+platform action game
+platform action-adventure game
+ps1 adventure
+ps1 adventure game
+ps1 horror
+pulp thriller
+pulp thriller adventure
+pulp thriller visual novel
+puzzle
+puzzle adventure
+racing
+racing sandbox game
+randomized FPS
+retro 8-bit horror adventure
+retro 8-bit horror game
+retro beat-em-up platformer
+retro horror
+romance adventure
+romance comedy game
+sandbox
+scrolling
+scrolling brawler
+search action game
+search action-adventure
+shooting game
+short CCG
+short cosmic horror game
+short digital card game
+short hypertext story puzzle
+short ps1 horror
+short ps1 horror game
+singleplayer beat-em-up
+singleplayer puzzle
+slash
+slash game
+small text adventure
+space combat
+space management sim
+stealth horror game
+stealth sandbox
+stealth strategy
+stealth strategy game
+stealth strategy hybrid
+stylish action
+survival horror adventure
+survival horror adventure game
+survival horror-comedy game
+target combat game
+target shooting gallery game
+teamwork puzzle
+tennis bullet hell
+text-based dungeon
+third-person 3d mascot racer
+third-person action roguelike
+third-person dungeon RPG
+third-person RPG
+tower defense game
+vertical shmup
+vertical-scrolling action game
+vertical-scrolling game
+virtual world game
+visual novel dating sim
+VR action game
+weird noir horror thriller
+western
+whimsical fantasy
+whimsical fantasy game
+wide-open sandbox RPG
+wide-open world action game
+wide-open world action-adventure
+wide-open world crime shooter
+wide-open world crime sim
+wide-open world RPG
+online FPS
+online FPS game

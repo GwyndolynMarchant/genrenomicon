@@ -1,0 +1,3 @@
+[submodule "quick-markov"]
+	path = quick-markov
+	url = https://github.com/Kansattica/quick-markov.git

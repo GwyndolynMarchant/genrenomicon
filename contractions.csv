@@ -1,0 +1,74 @@
+first person shooter,FPS
+first person,first-person
+third person,third-person
+light gun,lightgun
+
+hyper text,hypertext
+top down,top-down
+(\w+) scrolling,\1-scrolling
+choose your own adventure,CYOA
+virtual reality,VR
+augmented reality,AR
+auto runner,auto-runner
+
+shoot em up,shmup
+(\w+) em (\w+),\1-em-\2
+(\w+) and (\w+),\1-and-\2
+(\w+) to (\w+),\1-to-\2
+(\w+) based,\1-based
+(\w+) oriented,\1-oriented
+(\w+) driver,\1-driven
+(\w+) style,\1-style
+(\w+) focused,\1-focused
+anti (\w+),anti-\1
+(\w+) punk,\1punk
+post (\w+),post-\1
+tie in, tie-in
+ de (\w+), de\1
+^de (\w+),de\1
+
+science fiction,sci-fi
+horror comedy,horror-comedy
+action adventure,action-adventure
+court room,courtroom
+
+multi user (dungeon|dimension|domain),MUD
+massive multi player online,MMO
+(\w+) player,\1player
+single (\w+),single-\1
+cooperative,co-op
+free roaming,free-roaming
+
+multi (\w+),multi-\1
+real time strategy,RTS
+real time,real-time
+full (\w+),full-\1
+exploration expand exploit exterminate,4X
+role playing game,RPG
+role playing,role-playing
+(\w+) paced,\1-paced
+
+digital collectible card game,CCG
+collectible card game,CCG
+digital collectible card,CCG
+
+(\w+) li(t|k)e,\1li\2e
+metroid vania,metroidvania
+souls borne,soulsborne
+clone game,clone
+
+bite size,bitesize
+hyper active,hyperactive
+mind screw,mindscrew
+wide open,wide-open
+
+dream exploration game,dream emulator
+dream exploration ([\w\s]+) game,\1 dream emulator
+dream exploration ([\w\s]+),\1 dream emulator
+(\w+) a thon,\1-a-thon
+
+MMO (FPS|RPG|RTS),MMO\1
+
+(\w+) game (\w+),\1 \2
+sim game,sim
+adventure adventure,adventure
