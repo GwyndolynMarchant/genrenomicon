@@ -31,6 +31,8 @@ science fiction,sci-fi
 horror comedy,horror-comedy
 action adventure,action-adventure
 court room,courtroom
+puzzle platformer, puzzle-platformer
+escape room adventure,escape room
 
 multi user (dungeon|dimension|domain),MUD
 massive multi player online,MMO
@@ -62,9 +64,8 @@ hyper active,hyperactive
 mind screw,mindscrew
 wide open,wide-open
 
-dream exploration game,dream emulator
-dream exploration ([\w ]+) game,\1 dream emulator
-dream exploration ([\w ]+),\1 dream emulator
+dream exploration ([a-zA-Z ]*) game,\1 dream emulator
+dream exploration ([a-zA-Z ]*),\1 dream emulator
 (\w+) a thon,\1-a-thon
 
 MMO (FPS|RPG|RTS),MMO\1
@@ -72,3 +73,4 @@ MMO (FPS|RPG|RTS),MMO\1
 (\w+) game (\w+),\1 \2
 sim game,sim
 adventure adventure,adventure
+  , 
