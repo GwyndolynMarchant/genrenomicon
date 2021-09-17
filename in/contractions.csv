@@ -17,7 +17,7 @@ shoot em up,shmup
 (\w+) to (\w+),\1-to-\2
 (\w+) based,\1-based
 (\w+) oriented,\1-oriented
-(\w+) driver,\1-driven
+(\w+) driven,\1-driven
 (\w+) style,\1-style
 (\w+) focused,\1-focused
 anti (\w+),anti-\1
