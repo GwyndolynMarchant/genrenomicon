@@ -15,12 +15,12 @@ battle royale game
 multi player online battle arena
 rhythm action game
 survival game
-puzzle platform game
-run and gun platform game
-cinematic platform game
+puzzle platformer
+run and gun platformer
+cinematic platformer
 comical action game
-isometric platform game
-platform adventure game
+isometric platformer
+adventure platformer
 runner game
 auto runner game
 endless runner game
@@ -72,7 +72,7 @@ environmental narrative game
 visual novel
 interactive movie
 role playing game
-first person dungeon crawl
+first person dungeon crawler
 isometric dungeon crawler
 top down dungeon crawler
 point and click combat
@@ -335,10 +335,10 @@ licensed game
 online game
 virtual reality game
 augmented reality game
-platform action adventure racing sandbox game
-sports platform adventure game
+action adventure racing sandbox platformer
+sports adventure platformer
 first person puzzle platformer
-mind screw puzzle platforming surreal horror game
+mind screw puzzle platformer surreal horror game
 action adventure rail first person shooter
 real time turn based strategy hybrid bullet hell
 bullet hell
@@ -388,7 +388,7 @@ massive single player battle arena
 mini game platform stealth brawler
 real time strategy rogue like
 farm business defense sim
-platform action role playing game
+action role playing platformer
 massive multi player game
 graphic adventure game
 visual novel court room adventure game
