@@ -10,4 +10,4 @@ Genrenomicon generates a list of genres using [quick-markov](https://github.com/
 A full list of sources is available in [references](doc/references.md).
 
 ## See the results in action!
-The genrenomicon is used to fuel <a rel="me" href="https://botsin.space/@genrenomicon">a bot on Mastodon</a> as well as [Twitter](https://twitter.com/genrenomicon)!
+The genrenomicon is used to fuel bots on <a rel="me" href="https://botsin.space/@genrenomicon">Mastodon</a> and [Twitter](https://twitter.com/genrenomicon)!
