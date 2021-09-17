@@ -68,8 +68,7 @@ dream exploration ([a-zA-Z ]*) game,\1 dream emulator
 dream exploration ([a-zA-Z ]*),\1 dream emulator
 (\w+) a thon,\1-a-thon
 
-MMO (FPS|RPG|RTS),MMO\1
-
+([A-Z]+) ([A-Z]+),\1\2
 (\w+) game (\w+),\1 \2
 sim game,sim
 adventure adventure,adventure
