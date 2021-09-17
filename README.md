@@ -8,3 +8,6 @@ Genrenomicon generates a list of genres using [quick-markov](https://github.com/
 3. [itch.io](https://itch.io) game descriptions
 
 A full list of sources is available in [references](doc/references.md).
+
+## See the results in action!
+The genrenomicon is used to fuel <a rel="me" href="https://botsin.space/@genrenomicon">a bot on Mastodon</a>!
