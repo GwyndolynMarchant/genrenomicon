@@ -63,8 +63,8 @@ mind screw,mindscrew
 wide open,wide-open
 
 dream exploration game,dream emulator
-dream exploration ([\w\s]+) game,\1 dream emulator
-dream exploration ([\w\s]+),\1 dream emulator
+dream exploration ([\w ]+) game,\1 dream emulator
+dream exploration ([\w ]+),\1 dream emulator
 (\w+) a thon,\1-a-thon
 
 MMO (FPS|RPG|RTS),MMO\1
