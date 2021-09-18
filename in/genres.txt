@@ -2,15 +2,17 @@
 2d action game
 2d hack and slash
 2d pixel gardening game
+2d side scrolling action platformer metroid vania role playing game
 2d top down golf game
 3d action game
 3d beat em up
 3d hack and slash
 3d mascot platformer
 3d metroid vania first person shooter
-3d platform game
+3d platformer game
 3d tile based tycoon game
 90s arcade shooter hyper collectathon action
+abstract non violent puzzle game
 abstract visual novel
 action adventure game
 action adventure puzzle dungeon crawler
@@ -20,8 +22,8 @@ action game
 action horror game
 action platformer puzzle game
 action puzzle
-action role playing game
 action role playing adventure
+action role playing game
 action role playing game dungeon crawler city builder
 action role playing platformer
 action urban fantasy horror thriller visual novel
@@ -77,6 +79,7 @@ board game dating sim
 boat and naval sim
 boat combat game
 boating sim
+boss rush adventure exploration game
 bowling game
 boxing game
 brawler
@@ -187,6 +190,7 @@ first person 3d rogue like cyber punk role playing game
 first person action adventure
 first person action adventure horror philosophy art game
 first person action game
+first person alternate history mech combat
 first person cyber punk arcade action
 first person dungeon crawler
 first person exploration science fiction mystery game
@@ -207,7 +211,7 @@ first person shooter real time strategy game
 first person stealth
 fishing game
 fishing sim
-fixed screen platform game
+fixed screen platformer game
 fixed screen shooter
 flight sim
 food chain game
@@ -262,7 +266,7 @@ interactive fiction
 interactive horror fiction
 interactive movie
 interactive screen saver
-isomatric platform adventure
+isomatric platformer adventure
 isometric dungeon crawler
 isometric platformer
 isometric puzzle game
@@ -309,8 +313,8 @@ massive single player battle arena
 massive single player online game
 match three game
 maze game
-mecha combat game
-mechha game
+mech combat game
+mech game
 medical game
 medical sim
 mental training game
@@ -320,11 +324,12 @@ metroid vania pinball game
 metroid vania role playing side scrolling brawler
 military flight sim
 military sim
+mind bending atmospheric exploration puzzle game
 mind screw political drama visual novel
 mind screw puzzle platformer surreal horror game
 mini game
 mini game collection
-mini game platform stealth brawler
+mini game platformer stealth brawler
 minimalist incremental defense game
 miscellaneous game
 mobile game
@@ -351,6 +356,7 @@ narrative shoot em up rogue lite
 nightmare psychedelic trash pixel vertical scrolling shooter
 obnoxious quirky dark comedy adventure
 old school first person shooter metroid vania hybrid
+old school real time strategy role playing game
 olympic game
 online game
 online story puzzle game
@@ -375,14 +381,15 @@ pinball game
 pirate overlord sim
 pixel story driven cyber punk puzzler
 planet exploration survival game
-platform adventure
-platform game
-platform hell
+platformer adventure
+platformer game
+platformer hell
 point and click adventure game
 point and click combat
 point and target combat
 pong
 pool sim
+post apocalyptic action role playing game
 post human stealth horror
 procedural death labyrinth
 professional wrestling party brawler
@@ -396,7 +403,6 @@ puzzle adventure game
 puzzle game
 puzzle hack and slash strategy game
 puzzle horror platformer
-puzzle platformer
 puzzle platformer
 quiz game
 racing game
@@ -415,6 +421,7 @@ real time strategy rogue like
 real time tactics
 real time turn based strategy hybrid bullet hell
 realistic fighting game
+relaxing bug catching sim
 retro 8-bit horror platformer
 retro beat em up
 retro game
@@ -426,6 +433,7 @@ rhythm beat em up
 rhythm game
 rhythm violence game
 rogue like
+rogue like dungeon builder management survival sim
 rogue like like
 rogue lite
 rogue lite physics brawler
@@ -563,6 +571,7 @@ third person graphic adventure
 third person hack and shooter
 third person shooter
 third person shooter bullet hell action role playing game
+tile based puzzle dungeon adventure
 Tile game
 tile sweeper
 time management game
