@@ -39,6 +39,7 @@ massive multi player online,MMO
 (\w+) player,\1player
 single (\w+),single-\1
 cooperative,co-op
+couch co-op,couch-co-op
 free roaming,free-roaming
 
 multi (\w+),multi-\1
@@ -47,6 +48,7 @@ real time,real-time
 full (\w+),full-\1
 exploration expand exploit exterminate,4X
 role playing game,RPG
+computer RPG,CRPG
 role playing,role-playing
 (\w+) paced,\1-paced
 
