@@ -13,7 +13,7 @@ OUT3="out/output_3_sort.txt"
 OUT4="out/output_4_deleted.txt"
 OUT5="out/output_5_final.txt"
 
-pv in/genres.txt | ./quick-markov/markov 10000 > $OUT0
+pv in/genres.txt | ./quick-markov/markov 2000 > $OUT0
 grep -F -x -v -f in/genres.txt $OUT0 > $OUT1
 cp $OUT1 $OUT2
 for line in $(cat in/contractions.csv)
