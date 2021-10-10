@@ -11,8 +11,8 @@
 3d metroid vania first person shooter
 3d platformer game
 3d tile based tycoon game
-90s arcade shooter hyper collectathon action
-abstract non violent puzzle game
+90s arcade shooter hyper collection action
+abstract non violence puzzle game
 abstract visual novel
 action adventure game
 action adventure puzzle dungeon crawler
@@ -31,7 +31,7 @@ adventure game
 adventure platformer
 adventure survival horror stealth based game
 adver game
-aircraft combat game
+air craft combat game
 amateur flight sim
 american football game
 anti adventure game
@@ -51,14 +51,14 @@ atmospheric first person adventure game
 atmospheric puzzle platformer adventure
 augmented reality game
 australian rules football game
-autio only game
-auto battler
+audio only game
+auto battle game
 auto chess
 auto runner game
 bad chess variant
 ball and paddle game
 baseball game
-basketball game
+basket ball game
 bat and ball game
 battle game
 battle royale game
@@ -107,7 +107,7 @@ city builder survival game
 civilian flight sim
 classic arcade space combat game
 clicker game
-collect a thon platformer
+collectible platformer
 colony management
 combat flight sim
 combat game
@@ -159,7 +159,6 @@ eastern role playing game
 eat em up
 eat em up evolution game
 educational game
-edutainment game
 elimination platformer
 emergent historical first person shooter
 endless runner game
@@ -185,7 +184,7 @@ farm life sim
 farming sim
 fast paced arena action game
 fighting game
-firefighting game
+fire fighting game
 first person 3d rogue like cyber punk role playing game
 first person action adventure
 first person action adventure horror philosophy art game
@@ -221,7 +220,7 @@ furry yume nikki fan game
 gacha game
 game maker
 game mashup
-gameplay roulette game
+game play roulette game
 generative art game
 god game
 golf card puzzle game
@@ -266,7 +265,7 @@ interactive fiction
 interactive horror fiction
 interactive movie
 interactive screen saver
-isomatric platformer adventure
+isometric platformer adventure
 isometric dungeon crawler
 isometric platformer
 isometric puzzle game
@@ -277,7 +276,7 @@ jump scare horror game
 kaiju sim
 kart racing game
 kinetic novel
-large spaceship science fiction sim
+large space ship science fiction sim
 late night shopping adventure
 lemmings like
 licensed game
@@ -288,7 +287,7 @@ light gun game
 light gun shooter
 linear visual novel
 living virtual world
-local multi player action basketball platformer
+local multi player action basket ball platformer
 local multi player game
 local multi player party game
 local multi player robot soccer fiasco
@@ -348,7 +347,7 @@ multi user domain
 multi user dungeon
 multi user shared hallucination
 multi user text oriented game
-multi vehicular combat game
+multi vehicle combat game
 museum game
 narrative adventure game
 narrative racing game
@@ -379,7 +378,7 @@ physics based game
 physics based point and click game
 pinball game
 pirate overlord sim
-pixel story driven cyber punk puzzler
+pixel story driven cyber punk puzzle game
 planet exploration survival game
 platformer adventure
 platformer game
@@ -408,8 +407,8 @@ quiz game
 racing game
 racing sim
 rail shooter
-railroad sim
-railway sim
+rail road sim
+rail way sim
 raising sim
 randomized first person shooter dungeon crawler
 real time first person anti thriller
@@ -475,7 +474,7 @@ short cosmic horror adventure game
 short digital poem
 short first person adventure game
 short first person science fiction horror game
-short hypertext story
+short hyper text story
 short interactive scene
 short lesbian furry smut
 short murder mystery comedy adventure
@@ -538,7 +537,7 @@ stylish stunt platformer
 submarine combat game
 submarine sim
 sumo game
-supernatural detective game
+super natural detective game
 surfing game
 surreal dream exploration game
 surreal space station prison break role playing game
@@ -549,7 +548,7 @@ survival horror game
 survival horror metroid vania
 survival sandbox
 survival walking sim
-tabletop role playing game
+table top role playing game
 tactical espionage action game
 tactical role playing game
 tactical shooter
@@ -566,7 +565,7 @@ text adventure game
 text based adventure
 text based dungeon crawler
 text oriented game
-theme park manager
+theme park management game
 third person action adventure
 third person graphic adventure
 third person hack and shooter
@@ -598,9 +597,9 @@ typing game
 unlicensed sports
 vehicle combat game
 vehicle sim
-vehicular combat game
+vehicle combat game
 vertical scrolling shooter
-vertically scrolling game
+vertical scrolling game
 very short narrative experiment
 victorian steam punk city builder
 virtual paper doll

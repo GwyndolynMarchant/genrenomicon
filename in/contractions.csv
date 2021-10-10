@@ -26,13 +26,27 @@ post (\w+),post-\1
 tie in, tie-in
  de (\w+), de\1
 ^de (\w+),de\1
+(\w+) craft,\1craft
+(air|space) ship,\1ship
+rail (road|way),rail\2
+basket ball,basketball
+game play,gameplay
+fire fighting,firefighting
 
+platform game,platformer
 science fiction,sci-fi
 horror comedy,horror-comedy
 action adventure,action-adventure
 court room,courtroom
-puzzle platformer, puzzle-platformer
+puzzle platformer,puzzle-platformer
 escape room adventure,escape room
+battle game,battler
+puzzle game,puzzler
+management game,manager
+table top,tabletop
+super natural,supernatural
+educational game,edutainment
+collectible platformer,collectathon
 
 multi user (dungeon|dimension|domain),MUD
 massive multi player online,MMO
@@ -48,6 +62,7 @@ real time,real-time
 full (\w+),full-\1
 exploration expand exploit exterminate,4X
 role playing game,RPG
+tabletop RPG,TTRPG
 computer RPG,CRPG
 role playing,role-playing
 (\w+) paced,\1-paced
