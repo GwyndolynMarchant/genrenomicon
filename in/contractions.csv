@@ -1,92 +1,86 @@
-first person shooter,FPS
-first person,first-person
-third person,third-person
-light gun,lightgun
-
-hyper text,hypertext
-top down,top-down
-(\w+) scrolling,\1-scrolling
+// ACRONYMS
+first person(.* )shooter,\1FPS
 choose your own adventure,CYOA
 virtual reality,VR
 augmented reality,AR
-auto runner,auto-runner
+multi user (dungeon|dimension|domain),MUD
+massive multi player online,MMO
+real time(.* )strategy,\1RTS
+exploration expand exploit exterminate,4X
+role playing(.* )game,\1RPG
+action(.* )RPG,\1ARPG
+tabletop RPG,TTRPG
+computer RPG,CRPG
+(digital )?collectible card( game)?,CCG
 
+// SHORTENINGS
 shoot em up,shmup
-(\w+) em (\w+),\1-em-\2
-(\w+) and (\w+),\1-and-\2
-(\w+) to (\w+),\1-to-\2
-(\w+) based,\1-based
-(\w+) oriented,\1-oriented
-(\w+) driven,\1-driven
-(\w+) style,\1-style
-(\w+) focused,\1-focused
-anti (\w+),anti-\1
-(\w+) punk,\1punk
-post (\w+),post-\1
-tie in, tie-in
- de (\w+), de\1
-^de (\w+),de\1
-(\w+) craft,\1craft
-(air|space) ship,\1ship
-rail (road|way),rail\2
-basket ball,basketball
-game play,gameplay
-fire fighting,firefighting
-
 platform game,platformer
 science fiction,sci-fi
-horror comedy,horror-comedy
-action adventure,action-adventure
-court room,courtroom
-puzzle platformer,puzzle-platformer
 escape room adventure,escape room
 battle game,battler
 puzzle game,puzzler
 management game,manager
-table top,tabletop
-super natural,supernatural
 educational game,edutainment
 collectible platformer,collectathon
-
-multi user (dungeon|dimension|domain),MUD
-massive multi player online,MMO
-(\w+) player,\1player
-single (\w+),single-\1
 cooperative,co-op
-couch co-op,couch-co-op
-free roaming,free-roaming
-
-multi (\w+),multi-\1
-real time strategy,RTS
-real time,real-time
-full (\w+),full-\1
-exploration expand exploit exterminate,4X
-role playing game,RPG
-tabletop RPG,TTRPG
-computer RPG,CRPG
-role playing,role-playing
-(\w+) paced,\1-paced
-
-digital collectible card game,CCG
-collectible card game,CCG
-digital collectible card,CCG
-
-(\w+) li(t|k)e,\1li\2e
-metroid vania,metroidvania
-souls borne,soulsborne
-clone game,clone
-
-bite size,bitesize
-hyper active,hyperactive
-mind screw,mindscrew
-wide open,wide-open
-
+(\w) hybrid (\w),\1 x \2
 dream exploration ([a-zA-Z ]*) game,\1 dream emulator
 dream exploration ([a-zA-Z ]*),\1 dream emulator
-(\w+) a thon,\1-a-thon
+battle arena shooter,hero shooter
+battle arena ([a-zA-Z ]*) shooter,\1 hero shooter
 
+// SHORTENING CLEANUP
+(dungeon crawler|(?:city|deck)? ?builder|rogueli[kt]e|sim|visual novel|shooter|platformer|shmup|battler|puzzler|manager|clone) ([a-zA-Z ]*) game,\2 \1
+(dungeon crawler|(?:city|deck)? ?builder|rogueli[kt]e|sim|visual novel|shooter|platformer|shmup|battler|puzzler|manager|clone) game,\1
+
+// CONCATENATION
+bite size,bitesize
+collect a thon,collectathon
+court room,courtroom
+fire fighting,firefighting
+game play,gameplay
+jump scare,jumpscare
+light gun,lightgun
+metroid vania,metroidvania
+mind screw,mindscrew
+mini game,minigame
+souls borne,soulsborne
+super natural,supernatural
+table top,tabletop
+screen saver,screensaver
+(\w+) (player|craft|punk),\1\2
+(\w+) li(t|k)e,\1li\2e
+(basket|base) ball,\1ball
+(air|space) ship,\1ship
+\bde (\w+),de\1
+rail (road|way),rail\1
+hyper (active|text),hyper\1
+
+// HYPHENATION
+first person,first-person
+third person,third-person
+puzzle platformer,puzzle-platformer
+couch co-op,couch-co-op
+free roaming,free-roaming
+real time,real-time
+role playing,role-playing
+open source,open-source
+wide open,wide-open
+block pushing,block-pushing
+horror comedy,horror-comedy
+action adventure,action-adventure
+top down,top-down
+auto runner,auto-runner
+tie in,tie-in
+action arcade,action-arcade
+(\w+) (em|and|to) (\w+),\1-\2-\3
+(\w+) (scrolling|paced|focused|based|oriented|driven|style),\1-\2
+(full|multi|single|post|anti|non) (\w+),\1-\2
+
+// CLEANUP
 ([A-Z]+) ([A-Z]+),\1\2
 (\w+) game (\w+),\1 \2
 sim game,sim
-adventure adventure,adventure
-  , 
+( )+, 
+^ (\w),\1
